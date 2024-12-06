@@ -12,6 +12,5 @@ Welcome to the **CSE-212 Database Management Lab** repository! This project show
    ├── 📄 Bank Management System.pptx    
    ├── 📄 Bank Management.sql             
    ├── 📄 Team Alpha Report.pdf           
-📂 Project Code File                      
-📄 README.md                              
-git clone https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab.git
+                           
+
